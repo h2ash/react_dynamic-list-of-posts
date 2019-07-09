@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a),c=t(2),r=t.n(c);t(9);var s=function(){return o.a.createElement("div",{className:"App"},o.a.createElement("h1",null,"Dynamic list of posts"))};r.a.render(o.a.createElement(s,null),document.getElementById("root"))},3:function(e,n,t){e.exports=t(10)},9:function(e,n,t){}},[[3,1,2]]]);
-//# sourceMappingURL=main.43a6a747.chunk.js.map
